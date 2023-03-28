@@ -8,15 +8,15 @@
     "start": "nodemon --exec babel-node src/server.js"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "git+https://github.com/quockhai279/demo_nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/quockhai279/demo_nodejs/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/quockhai279/demo_nodejs#readme",
   "dependencies": {
     "@babel/core": "7.21.3",
     "@babel/node": "7.20.7",
