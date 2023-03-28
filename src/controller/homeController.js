@@ -1,7 +1,7 @@
-const { Router } = require("express")
+const Router = require("express")
 
 let getHomepage = (req, res) => {
-    return res.render('/index.ejs')
+    return res.render('index.ejs')
 }
 
 module.exports = {
